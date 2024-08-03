@@ -1,0 +1,5 @@
+Enter the number of strings: Enter the strings:
+
+Encode Function (lint code love you )
+Encoded string: 4#lint4#code4#love3#you
+4#lint4#code4#love3#youDecoded strings:
